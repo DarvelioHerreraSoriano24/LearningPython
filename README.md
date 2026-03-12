@@ -45,3 +45,5 @@ git push
 
 Reset Awareness:
 git status
+
+Remember to save file before updating git
